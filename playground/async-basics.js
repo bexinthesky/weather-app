@@ -5,7 +5,7 @@ setTimeout(() => {
 }, 2000);
 
 setTimeout(() => {
-    console.log('Second timeout');
+    console.log('Second setTimeout');
 }, 0);
 
 console.log('Finishing up');
